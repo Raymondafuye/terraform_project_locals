@@ -10,4 +10,4 @@
 *.tfvars.json
 # Project-specific: your secret file and generated output
 secret_db.txt
-project/db_password.txt
+project/secrets/db_password.txt
