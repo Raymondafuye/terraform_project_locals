@@ -29,6 +29,8 @@ No modules.
 | <a name="input_output_base_path"></a> [output\_base\_path](#input\_output\_base\_path) | Base directory where generated files are written | `string` | `"./project"` | no |
 
 ## Outputs
+c:\Users\AFUYE\Pictures\Screenshots\Screenshot 2026-07-23 235208.png
+c:\Users\AFUYE\Pictures\Screenshots\Screenshot 2026-07-23 235221.png
 
 No outputs.
 
